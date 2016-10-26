@@ -20,10 +20,6 @@ $ConsoleNames = @(
 )
 $HexPattern = "([A-Z0-9]{2})([A-Z0-9]{2})([A-Z0-9]{2})"
 
-Function Get-GitVersion {
-    return (git log -n 1 --oneline --format="format:%H")
-}
-
 Function Format-RightPad($Value, $Length) {
     $Builder = [System.Text.StringBuilder]::new()
     $Builder.Append($Value) | Out-Null
@@ -79,7 +75,6 @@ foreach($Theme in $Themes)
         "",
         "; ===============================================================",
         ("; == win-cmd-colors - {0}" -f $ThemeData.Description),
-        ("; == Changeset: {0}" -f (Get-GitVersion))
         ";"
     )
 
