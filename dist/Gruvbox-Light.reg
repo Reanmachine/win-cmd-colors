@@ -1,0 +1,43 @@
+Windows Registry Editor Version 5.00
+
+; ===============================================================
+; == win-cmd-colors - Gruvbox: Light
+; == Changeset: b729fd1b48bf2a9af86f4c0ad153510d988b01c3
+;
+; 00 Black            bg         #fbf1c7
+; 01 Blue             blue       #458588
+; 02 Green            green      #98971a
+; 03 Aqua             aqua       #689d6a
+; 04 Red              red        #cc241d
+; 05 Purple           purple     #b16286
+; 06 Yellow           yellow     #d79921
+; 07 White            fg         #3c3836
+; 08 Gray             gray       #7c6f64
+; 09 LightBlue        blue(d)    #076678
+; 10 LightGreen       green(d)   #79740e
+; 11 LightAqua        aqua(d)    #427b58
+; 12 LightRed         red(d)     #9d0006
+; 13 LightPurple      purple(d)  #8f3f71
+; 14 LightYellow      yellow(d)  #b57614
+; 15 BrightWhite      fg0        #282828
+;
+
+[HKEY_CURRENT_USER\Console]
+"ColorTable00"=dword:00c7f1fb
+"ColorTable01"=dword:00888545
+"ColorTable02"=dword:001a9798
+"ColorTable03"=dword:006a9d68
+"ColorTable04"=dword:001d24cc
+"ColorTable05"=dword:008662b1
+"ColorTable06"=dword:002199d7
+"ColorTable07"=dword:0036383c
+"ColorTable08"=dword:00646f7c
+"ColorTable09"=dword:00786607
+"ColorTable10"=dword:000e7479
+"ColorTable11"=dword:00587b42
+"ColorTable12"=dword:0006009d
+"ColorTable13"=dword:00713f8f
+"ColorTable14"=dword:001476b5
+"ColorTable15"=dword:00282828
+"ScreenColors"=dword:00000007
+"PopupColors"=dword:000000f0
