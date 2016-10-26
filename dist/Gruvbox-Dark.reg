@@ -2,7 +2,7 @@ Windows Registry Editor Version 5.00
 
 ; ===============================================================
 ; == win-cmd-colors - Gruvbox: Dark
-; == Changeset: b729fd1b48bf2a9af86f4c0ad153510d988b01c3
+; == Changeset: 0a1095984d081b32c519cd81e71ea98162d0cdfe
 ;
 ; 00 Black            bg         #282828
 ; 01 Blue             blue       #458588
@@ -14,7 +14,7 @@ Windows Registry Editor Version 5.00
 ; 07 White            fg         #ebdbb2
 ; 08 Gray             gray       #a89984
 ; 09 LightBlue        blue(l)    #83a598
-; 10 LightGreen       green(l)   #282828
+; 10 LightGreen       green(l)   #b8bb26
 ; 11 LightAqua        aqua(l)    #b8bb26
 ; 12 LightRed         red(l)     #8ec07c
 ; 13 LightPurple      purple(l)  #fb4934
@@ -33,7 +33,7 @@ Windows Registry Editor Version 5.00
 "ColorTable07"=dword:00b2dbeb
 "ColorTable08"=dword:008499a8
 "ColorTable09"=dword:0098a583
-"ColorTable10"=dword:00282828
+"ColorTable10"=dword:0026bbb8
 "ColorTable11"=dword:0026bbb8
 "ColorTable12"=dword:007cc08e
 "ColorTable13"=dword:003449fb
