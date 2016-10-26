@@ -1,0 +1,30 @@
+{
+    "Name": "Gruvbox-Dark",
+    "Description": "Gruvbox: Dark",
+    "Colors": [
+        { "Color": "282828", "Key": "bg" },
+        { "Color": "458588", "Key": "blue" },
+        { "Color": "98971A", "Key": "green" },
+        { "Color": "689D6A", "Key": "aqua" },
+        { "Color": "cc241d", "Key": "red" },
+        { "Color": "b16286", "Key": "purple" },
+        { "Color": "d79921", "Key": "yellow" },
+        { "Color": "ebdbb2", "Key": "fg" },
+        { "Color": "a89984", "Key": "gray" },
+        { "Color": "83a598", "Key": "blue(l)" },
+        { "Color": "282828", "Key": "green(l)" },
+        { "Color": "b8bb26", "Key": "aqua(l)" },
+        { "Color": "8ec07c", "Key": "red(l)" },
+        { "Color": "fb4934", "Key": "purple(l)" },
+        { "Color": "d3869b", "Key": "yellow(l)" },
+        { "Color": "fabd2f", "Key": "fg0" }
+    ],
+    "ScreenColors": {
+        "Foreground": 7,
+        "Background": 0
+    },
+    "PopupColors": {
+        "Foreground": 0,
+        "Background": 15
+    }
+}
